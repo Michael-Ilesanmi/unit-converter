@@ -14,4 +14,4 @@ I designed the frontend using CSS Flexbox to center the conversion box on the pa
 The font used is Montserrat and is linked from Google Fonts (https://fonts.google.com/).  
 The background image used for the page is a photo by Daniels Joffe (https://unsplash.com/@ydaniels) gotten from Unsplash (https://unsplash.com/), you can check out their website for quality free pictures to use for your projects.  
 For the page responsiveness, the approach used is a Large Screen first, and a max-width of 660px for the small screen orientation.  
-There is not much difference between the small screen and large screen orientation, save for the result of the conversions, and the width of the conversion box, and the width of the input box.
+There is not much difference between the small screen and large screen orientation, save for the for the font-size of conversion result, width of the conversion box, and width of the input box.
