@@ -45,9 +45,9 @@ var answer;
     }else if(convRangeVal === "milesFeet"){
         answer = (userInput * 5280) + " Feet"; //Convert miles to feet
     }else if(convRangeVal === "poundsKg"){
-        answer = (userInput /  2.205) + " Kilograms"; //Convert pounds to kilogram
+        answer = (userInput /  2.20462) + " Kilograms"; //Convert pounds to kilogram
     }else if(convRangeVal === "kgPounds"){
-        answer = (userInput *  2.205) + " Pounds";//Convert kilogram to pounds
+        answer = (userInput *  2.20462) + " Pounds";//Convert kilogram to pounds
     }else if(convRangeVal === "cF"){
         answer = ((userInput * (9/5)) + 32) + " Fahrenheit"; //Convert degree celcius to degree fahrenheit
     }else if(convRangeVal === "fC"){
